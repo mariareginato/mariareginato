@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Maria_Clara_Reginato-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://criarmeulink.com.br/u/1746051269" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-CriarMeuLink-%23ff69b4?style=for-the-badge&logo=linktree&logoColor=white" alt="Portfólio"/>
+    <img src="https://img.shields.io/badge/Portfólio-Meu-%23ff69b4?style=for-the-badge&logo=linktree&logoColor=white" alt="Portfólio"/>
   </a>
 </p>
 
