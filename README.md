@@ -9,7 +9,7 @@
 
 <p align="left">
   <a href="mailto:mariaclarareginato8@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-leandrocrapino@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-mariaclarareginato8@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/maria-clara-reginato-b44b63339/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Maria_Clara_Reginato-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
