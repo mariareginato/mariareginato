@@ -23,5 +23,5 @@
 
 ### 🌱 Sobre mim
 
-Sou apaixonada por tecnologia e estou sempre em busca de novos aprendizados. Gosto de desafios, projetos práticos e estou construindo minha jornada no mundo da programação e tecnologia.
+Sou apaixonada por tecnologia e estou sempre em busca de novos aprendizados. Gosto de desafios, projetos práticos e estou construindo minha jornada no mundo da programação e tecnologia. Também gosto muito de natação, pintura e todo tipo de arte.
 
