@@ -16,7 +16,7 @@
 ---
 
 
-> Desenvolvedora de Sistemas iniciante pelo SENAUI, com foco em Frontend | Criadora de interfaces intuitivas, interativas, acessíveis e atraentes. Sempre explorando novas tecnologias e soluções criativas. Fora do código, cultivo minha criatividade através da natação, pintura, arte e da minha paixão pela Fórmula 1 — hobbies que me ajudam a manter equilíbrio, foco e um olhar sensível para soluções inovadoras.
+> Desenvolvedora de Sistemas iniciante pelo SENAI, com foco em Frontend | Criadora de interfaces intuitivas, interativas, acessíveis e atraentes. Sempre explorando novas tecnologias e soluções criativas. Fora do código, cultivo minha criatividade através da natação, pintura, arte e da minha paixão pela Fórmula 1 — hobbies que me ajudam a manter equilíbrio, foco e um olhar sensível para soluções inovadoras.
 
 
 
