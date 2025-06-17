@@ -1,11 +1,5 @@
-# 👋 Olá! Me chamo Maria Clara Reginato
 
-🎓 Estudante da **3ª série do Ensino Médio** no Colégio Universitário USCS  
-💼 Cursando o **2º semestre do curso técnico** no **SENAI Armando Arruda Pereira**
-
----
-
-### 📫 Contato
+###  Contato
 
 <p align="left">
   <a href="mailto:mariaclarareginato8@gmail.com" target="_blank">
@@ -21,7 +15,18 @@
 
 ---
 
-### 🌱 Sobre mim
 
-Sou apaixonada por tecnologia e estou sempre em busca de novos aprendizados. Gosto de desafios, projetos práticos e estou construindo minha jornada no mundo da programação e tecnologia. Também gosto muito de natação, pintura e todo tipo de arte.
+> Desenvolvedora de Sistemas iniciante, com foco em Front-end | Criadora de interfaces intuitivas, interativas, acessíveis e atraentes. Sempre explorando novas tecnologias e soluções criativas. Fora do código, cultivo minha criatividade através da natação, pintura, arte e da minha paixão pela Fórmula 1 — hobbies que me ajudam a manter equilíbrio, foco e um olhar sensível para soluções inovadoras.
+
+
+
+
+
+
+
+
+
+
+
+
 
