@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/maria-clara-reginato-b44b63339/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Maria_Clara_Reginato-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://criarmeulink.com.br/u/1746051269" target="_blank">
+  <a href="https://portifolio-omega-one-59.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-Projetos Maria.C-%23ff69b4?style=for-the-badge&logo=linktree&logoColor=white" alt="Portfólio"/>
   </a>
 </p>
