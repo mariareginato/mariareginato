@@ -1,5 +1,11 @@
+Desenvolvedora de Sistemas em formação, com foco em Frontend | Criadora de interfaces intuitivas, interativas, acessíveis e atraentes. <br>
+Sempre explorando novas tecnologias e soluções criativas.<br>
+Cultivando criatividade através da natação, das artes em geral e da Fórmula 1 — hobbies que trazem equilíbrio, foco e um olhar sensível para soluções inovadoras.
+
+##
+
 <div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mariaclarareginato&show_icons=true&count_private=true&hide_border=true&title_color=FF00F6&icon_color=FF00F6&text_color=FF00F6&bg_color=1C1C1C" alt="Max Muller github stats" /> 
+  <img width="60%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mariaclarareginato&show_icons=true&count_private=true&hide_border=true&title_color=FF00F6&icon_color=FF00F6&text_color=FF00F6&bg_color=1C1C1C" alt="Max Muller github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclarareginato&layout=compact&hide_border=true&title_color=FF00F6&text_color=FF00F6&bg_color=1C1C1C&icon_color=FF00F6" />
 </div>
 
@@ -34,9 +40,6 @@
 </p>
 
 ---
-
-Desenvolvedora de Sistemas em formação, com foco em Frontend | Criadora de interfaces intuitivas, interativas, acessíveis e atraentes. Sempre explorando novas tecnologias e soluções criativas. Cultivando criatividade através da natação, das artes em geral e da Fórmula 1 — hobbies que trazem equilíbrio, foco e um olhar sensível para soluções inovadoras.
-
 
 
 <picture align="center">
