@@ -1,3 +1,11 @@
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mariaclarareginato&show_icons=true&count_private=true&hide_border=true&title_color=purple&icon_color=purple&text_color=purple&bg_color=1C1C1C" alt="Max Muller github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaclarareginato&layout=compact&hide_border=true&title_color=purple&text_color=purple&bg_color=1C1C1C" />
+</div>
+
+
+
+
 
 ###  Contato
 
